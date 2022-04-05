@@ -1,7 +1,7 @@
 ### Hey, hi, hello! 🤘😎
 ### Nice of you to stop by!
-- 🌱 I’m currently 50% through the full-stack web dev path in <a href="https://www.codecademy.com/learn/paths/full-stack-engineer-career-path">codecademy</a>
-- 🔭 I’m currently working on the front-end final project, creating a reddit client. Check out it's <a href="https://github.com/AviramV/reddit-client">repo!</a>
+- 🌱 I’m currently 50% through the full-stack web dev path in [codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+- 🔭 I’m currently working on the front-end final project, creating a reddit client. Check out it's [repo!](https://github.com/AviramV/reddit-client)
 - ⚡ Fun facts: 
   - I'm a musician, singer-songwriter and a video editor & animator at a professional capacity.
   - I love making beef jerky!
