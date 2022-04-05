@@ -1,5 +1,5 @@
 ### Hey, hi, hello! 🤘😎
-### Nice of you to stop by!
+#### Nice of you to stop by!
 - 🌱 I’m currently 50% through the full-stack web dev path in [codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
 - 🔭 I’m currently working on the front-end final project, creating a reddit client. Check out it's [repo!](https://github.com/AviramV/reddit-client)
 - ⚡ Fun facts: 
@@ -13,8 +13,8 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-764ABC?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/-CSS3-2A4FD5?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-ECD84D?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
